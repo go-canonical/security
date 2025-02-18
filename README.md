@@ -8,7 +8,6 @@ If you discover a vulnerability in any of our systems, please **responsibly disc
 
 ### 🔍 How to Report
 - **Email:** Send a detailed report to **security@gocanonical.com**.
-- **PGP Encryption (Optional):** If you prefer encrypted communication, [provide your public PGP key here].
 - **Include Details:** Please include:
   - Affected service, endpoint, or URL
   - Steps to reproduce the issue
